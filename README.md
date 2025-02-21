@@ -8,11 +8,11 @@ This project implements a fully automated ETL pipeline for flight booking data, 
 ✅ **Cloud integration** (BigQuery / Cloud Storage)  
 
 ## 🛠️ Tech Stack
-🔹 **Apache Airflow** – Workflow automation
-🔹 **MySQL** – Data storage
-🔹 **Apache Spark** – Batch Processing(Transformation)
-🔹 **GCP Services** – Composer, Dtaproc serverless, Bigquery, Cloud storage
-🔹 **GitHub Actions** – CI/CD automation
+🔹 **Apache Airflow** – Workflow automation  
+🔹 **MySQL** – Data storage  
+🔹 **Apache Spark** – Batch Processing (Transformation)  
+🔹 **GCP Services** – Composer, Dataproc Serverless, BigQuery, Cloud Storage  
+🔹 **GitHub Actions** – CI/CD automation  
 ## Workflow
 ![Flight_Booking-CICD](https://github.com/user-attachments/assets/2126fadb-3e6f-4811-8352-8393ec16ca2d)
 
