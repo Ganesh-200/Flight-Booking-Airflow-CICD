@@ -13,4 +13,5 @@ This project implements a fully automated ETL pipeline for flight booking data, 
 🔹 **GCP Services** – Composer, Dtaproc serverless, Bigquery, Cloud storage
 🔹 **GitHub Actions** – CI/CD automation
 ## Workflow
-![Sales_Data-CDC](https://github.com/user-attachments/assets/a0bdef37-f099-46de-ac1f-66bde10667b7)
+![Flight_Booking-CICD](https://github.com/user-attachments/assets/2126fadb-3e6f-4811-8352-8393ec16ca2d)
+
