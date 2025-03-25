@@ -1,5 +1,5 @@
 # Flight-Booking-Airflow-CICD ✈️
-Automated Flight Data Pipeline using Apache Airflow & CI/CD
+### Automated Flight Data Pipeline using Apache Airflow & CI/CD
 ![image](https://github.com/user-attachments/assets/f5ce3e5d-43ca-4d8f-b724-10f2218a0008)
 
 ## 📌 Overview
