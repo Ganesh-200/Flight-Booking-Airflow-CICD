@@ -1,5 +1,7 @@
 # Flight-Booking-Airflow-CICD ✈️
 Automated Flight Data Pipeline using Apache Airflow & CI/CD
+![image](https://github.com/user-attachments/assets/f5ce3e5d-43ca-4d8f-b724-10f2218a0008)
+
 ## 📌 Overview
 This project implements a fully automated ETL pipeline for flight booking data, integrating Apache Airflow, CI/CD pipelines, and cloud services (GCP) for seamless data processing and deployment. In this project as soon as data arrives in source location the file sensing will happen from a sensor and ETL job will gets triggered.
 ## 🚀 Key Features
